@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour
     {
         // Mendapatkan Rigidbody2D dari GameObject
         rb = GetComponent<Rigidbody2D>();
+
     }
 
     // Update is called once per frame
